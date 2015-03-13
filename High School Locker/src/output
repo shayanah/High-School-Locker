@@ -1,0 +1,15 @@
+Please input the first combination: 15
+Please input the second combination: 18
+Please input the third combination: 18
+atempt denied.
+There is currently no book in the locker.
+Locker Number: 100
+Student Name: Micky Mouse
+Combination Lock: CombinationLock [ combination1= 28, combination2= 17, combination3= 39]
+Number of books: 6
+
+Locker Number: 275
+Student Name: Donald Duck
+Combination Lock: CombinationLock [ combination1= 35, combination2= 16, combination3= 27]
+Number of books: 0
+
